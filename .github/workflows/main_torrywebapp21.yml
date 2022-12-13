@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'torrywebapp21'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DCF5771533C4B088B0EFBA7F1461E76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E63E7F0E4CE4867A72B67383E2CE513 }}
